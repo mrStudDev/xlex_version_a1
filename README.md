@@ -1,1 +1,0 @@
-Projeto Xlex - Python / Django
