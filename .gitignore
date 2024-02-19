@@ -1,5 +1,5 @@
-/xlex_version_a1/static/
-/xlex_version_a1/media/
+/xlexapp/static/
+/xlexapp/media/
 
 /xlex_version_a1/static/
 gunicorn-error-log
